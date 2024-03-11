@@ -17,6 +17,11 @@
 Выпадение Л (или 3) позволяет игроку пририсовать три лапки с одной стороны туловища. Для других трех лапок необходимо еще раз выбросить Л (или 3).
 
 Рисунок этапного построения жука
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/71d83d82-85c7-4970-8bae-73d17471f923)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/7324a0c4-a2ef-4332-b7a1-13d8a1094948)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/a9f75699-1a24-45fa-9ef8-459f4e7dac8a)
+
+
 
 
 
