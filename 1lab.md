@@ -1,7 +1,8 @@
 # Лабораторная работа №1
 Диаграмма прецендентов для игры "Жучок" и описания прецедентов.
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/79c0ed3c-25cc-41e2-b4d7-d5b932e0d0ca)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3e6646ab-6c14-4054-ae5b-7212a167ad61)
+
 
 
 
