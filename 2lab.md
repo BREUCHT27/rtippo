@@ -1,7 +1,8 @@
 # Лабораторная работа №2
 Создание модели предметной области
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/5480aa7e-3047-48f1-96bd-61443556dd84)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/b441472d-5f75-4cc4-9ed3-587bd61d053b)
+
 
 
 При запуске системы пользователь настраивает игру:
