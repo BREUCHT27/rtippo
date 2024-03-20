@@ -11,7 +11,8 @@
 ## Прецедент "Настройка игры"
 Рисунок 2 - Диаграмма последовательности для прецедента "Настройка игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/5b92e9de-7ef4-4a6e-8e7a-18f5f58eb7c4)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/fe20f4e7-4187-47d1-abf8-bcc81af3ad16)
+
 
 ---
 ## Прецедент "Бросок куюика"
