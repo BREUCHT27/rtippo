@@ -33,7 +33,8 @@
 ## Прецедент "Завершение игры"
 Рисунок 5 - Диаграмма последовательности для прецедента "Завершение игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/0732f33e-3f5d-4040-80f2-f11b92ffee60)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/cf60ae94-1e67-4ce7-9023-ac4ccc605908)
+
 
 ---
 ## Операции
