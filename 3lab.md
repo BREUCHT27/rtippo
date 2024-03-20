@@ -25,7 +25,8 @@
 ## Прецедент "Сборка жука"
 Рисунок 4 - Диаграмма последовательности для прецедента "Сборка жука"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/c838fe8b-c9c9-4be8-b3df-b40c27dde4f5)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/f466eac3-7b60-4c1b-844c-a4d74ab74e61)
+
 
 
 ---
