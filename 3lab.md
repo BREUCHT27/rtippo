@@ -4,7 +4,8 @@
 ## Прецедент "Запуск игры"
 Рисунок 1 - Диаграмма последовательности для прецедента "Запуск игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/84ff8d65-0a7f-4a15-a4e9-5ca851a563bb)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/dc7d22e2-44a3-44f1-8542-9320d5bfd42e)
+
 
 ---
 ## Прецедент "Настройка игры"
