@@ -4,7 +4,8 @@
 ## Прецедент "Запуск игры"
 Рисунок 1 - Диаграмма последовательности для прецедента "Запуск игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/dc7d22e2-44a3-44f1-8542-9320d5bfd42e)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/59ffd0c8-a120-4cce-8d70-1f30e5c9f40e)
+
 
 | Операция | gameLogin() |
 |---|---|
@@ -28,7 +29,8 @@
 ## Прецедент "Настройка игры"
 Рисунок 2 - Диаграмма последовательности для прецедента "Настройка игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/fe20f4e7-4187-47d1-abf8-bcc81af3ad16)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/b700d412-a9a0-46e4-af78-6720f3e61c98)
+
 
 | Операция | gameSettings() |
 |---|---|
@@ -46,7 +48,8 @@
 ## Прецедент "Бросок кубика"
 Рисунок 3 - Диаграмма последовательности для прецедента "Бросок кубика"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/4e192c10-2399-430c-a753-943aa0d1b96a)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/38a586f4-2106-4c3c-a5fc-d8cd93a2f111)
+
 
 | Операция | triggerRoll() |
 |---|---|
@@ -64,7 +67,8 @@
 ## Прецедент "Сборка жука"
 Рисунок 4 - Диаграмма последовательности для прецедента "Сборка жука"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/f466eac3-7b60-4c1b-844c-a4d74ab74e61)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/b13d0d26-6bc7-4296-8b2c-b18df42f7670)
+
 
 | Операция | analysisRoll() |
 |---|---|
@@ -82,7 +86,8 @@
 ## Прецедент "Завершение игры"
 Рисунок 5 - Диаграмма последовательности для прецедента "Завершение игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/cf60ae94-1e67-4ce7-9023-ac4ccc605908)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/8dbe6c14-08d4-4e47-8615-4a7913a7a6e1)
+
 
 | Операция | buildBug() |
 |---|---|
