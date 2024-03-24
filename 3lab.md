@@ -4,7 +4,8 @@
 ## Прецедент "Запуск игры"
 Рисунок 1 - Диаграмма последовательности для прецедента "Запуск игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/1ca49dd2-e370-4ae2-8903-f68d19d07239)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/0c987e1a-3e67-41bf-b267-42aeaf07a34c)
+
 
 
 
@@ -30,7 +31,8 @@
 ## Прецедент "Настройка игры"
 Рисунок 2 - Диаграмма последовательности для прецедента "Настройка игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/bbe394d1-8d9d-4d38-9a43-06c00606ac85)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/cc8f4cf9-1a12-4d30-9e30-e7dd4f9dd836)
+
 
 
 
@@ -62,7 +64,8 @@
 ## Прецедент "Бросок кубика"
 Рисунок 3 - Диаграмма последовательности для прецедента "Бросок кубика"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/32c23a79-207f-430f-80e4-2e59f75cdf84)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/97eade22-001c-480c-90f5-3895e32b350a)
+
 
 
 
@@ -88,7 +91,8 @@
 ## Прецедент "Сборка жука"
 Рисунок 4 - Диаграмма последовательности для прецедента "Сборка жука"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/b245e9cd-57f8-4bb7-bf16-3f6d4604b8b8)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/ba884eac-0a89-49d1-9d70-ba40dee80456)
+
 
 
 
@@ -108,7 +112,8 @@
 ## Прецедент "Завершение игры"
 Рисунок 5 - Диаграмма последовательности для прецедента "Завершение игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/70613d88-53ec-43a7-8615-7b4cd1538d48)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/ab64e9ff-de56-4483-8eea-36f581daecb3)
+
 
 
 
