@@ -4,5 +4,6 @@
 ---
 ## Диаграмма классов проектирования "Жучок"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/2ef1c6f4-ecd8-4cd6-ad0d-4a1a1bfc8aeb)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/0db89ef6-6167-45cb-a9cf-46c74a743bab)
+
 
