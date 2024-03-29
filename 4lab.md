@@ -5,98 +5,119 @@
 
 Рисунок 1 - Диаграмма последовательности для "Показывает окно с полем ввода имени"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/4ca64362-46ad-40ca-a3dc-4cdcd8adc47e)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/d1131e19-aea2-4317-b96c-2c7972bf9274)
+
 
 Рисунок 2 - Диаграмма последовательности для "Вводит имя и нажимает кнопку "Ок""
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/6621e1ec-5fc0-4996-a954-b90131b07fa4)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/5ba1ec8e-b75a-4aa7-b603-66a4d0710a85)
+
 
 Рисунок 3 - Диаграмма последовательности для "Сохраняет имя"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/5a607461-587d-4841-a6bb-aea512c8a2ab)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/68f4576e-2854-4737-a8ef-7a670084d18e)
+
 
 Рисунок 4 - Диаграмма последовательности для "Запускает игру"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/9105349c-259a-40af-8d9f-885cde6ee240)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/22023de0-1596-4e61-964d-9f54594011a2)
+
 
 ---
 ## Прецедент "Настройка игры"
 
 Рисунок 5 - Диаграмма последовательности для "Показывает окно с настройками"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/4236eee0-d514-440e-8bbf-7d170c1462ea)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/db6dae4e-2d9b-4b9c-9ce8-13dfb884f2ae)
+
 
 Рисунок 6 - Диаграмма последовательности для "Выбирает режим игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/42ff5320-087e-4e6d-942c-8526a2e014c5)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/58d7c527-c37d-4344-9d94-3270bfd80cfc)
+
 
 Рисунок 7 - Диаграмма последовательности для "Выбирает количество ботов"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/34c9770a-5e00-4792-a953-d10e4913ecd6)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/1510ef92-ed03-43b2-a6a1-c5ad17193a65)
+
 
 Рисунок 8 - Диаграмма последовательности для "Нажимает кнопку "Создать игру""
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/26021226-29ad-48cd-adab-a0be281abe72)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/2ba51bc6-8f44-453d-8e6c-ecf7dadbad5a)
+
 
 Рисунок 9 - Диаграмма последовательности для "Присваивает настройки игре"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/04c120ad-20b7-43c6-97da-b17308385b82)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/9f113514-adda-4a48-a060-3fd14d45b6a2)
+
 
 ---
 ## Прецедент "Бросок кубика"
 
 Рисунок 10 - Диаграмма последовательности для "Бросает кубик"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/03d2b681-b222-4b00-b820-8ad883cb32b4)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/ce29a759-7eb5-49f6-8035-a6c07b52960a)
+
 
 Рисунок 11 - Диаграмма последовательности для "Обрабатывает данные с броска"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/c537cd68-5c14-41fc-b71b-bf81529351a0)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3d05e215-d60f-4f36-9705-304837396396)
+
 
 Рисунок 12 - Диаграмма последовательности для "Показывает окно с результатами броска"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/ebf7f6eb-2774-486b-ae3a-2265f90b018a)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/86659af8-3ca7-4296-8b74-b34352b3db95)
+
 
 ---
 ## Прецедент "Сборка жука"
 
 Рисунок 13 - Диаграмма последовательности для "Выдает часть тела"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/46c363fa-1874-47ad-9c60-18914f3d9f60)
+
 
 Рисунок 14 - Диаграмма последовательности для "Проверяет часть тела на логику выдачи"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/baf43557-7a47-4dee-bd39-2459c1f2306a)
+
 
 Рисунок 15 - Диаграмма последовательности для "Отдает игроку часть"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/4cfd8b28-bc77-4296-b04f-7062e7783330)
+
 
 Рисунок 16 - Диаграмма последовательности для "Передача права хода"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/761d0162-9636-483e-9255-f700c226472f)
+
 
 ---
 ## Прецедент "Завершение игры"
 
 Рисунок 17 - Диаграмма последовательности для "Проверяет сборку жука"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/51b71a3e-57c1-406f-876d-bc9daa96cca4)
+
 
 Рисунок 18 - Диаграмма последовательности для "Собирает данные результатов игроков в игре"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/8bfe7a90-0fc9-4539-adf1-63bee188aeaa)
+
 
 Рисунок 19 - Диаграмма последовательности для "Завершает игру"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/a51a625a-57e5-4ec9-80cc-0fcb78887c3c)
+
 
 Рисунок 20 - Диаграмма последовательности для "Показывает окно результатами игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/c1b4ee30-7e3c-473f-974d-65514a3d1cb5)
+
 
 Рисунок 21 - Диаграмма последовательности для "Удаляет жука с поля сборки"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3842e17e-6bca-4f03-be80-8772246ae2d2)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3ed0dda9-3932-4ca3-afcc-07de16d188cf)
+
 
 ---
