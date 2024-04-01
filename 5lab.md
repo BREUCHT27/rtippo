@@ -1,9 +1,6 @@
 # Создание диаграммы классов проектирования
 
-
 ---
 ## Диаграмма классов проектирования "Жучок"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/de15b6b4-2584-455d-97f3-ab8efb4ce0b3)
-
-
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/7550ba16-feca-4e87-b45b-245b1bcad8b6)
