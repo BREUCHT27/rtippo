@@ -14,7 +14,8 @@ Bug - хранит данные о жуке, где будет известно 
 ---
 ## Прецедент "Запуск игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/e0c030d3-69b6-46e3-80b2-310be8544f8c)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/f43212b0-dc74-425c-b95c-cd17116498b1)
+
 
 | Операция | Показывает окно с полем ввода имени |
 |---|---|
@@ -55,7 +56,8 @@ Bug - хранит данные о жуке, где будет известно 
 ---
 ## Прецедент "Настройка игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/4744a1c9-6add-47f3-a8eb-7d26048207d3)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/b2f8e027-924f-4910-ad11-8ede662e1050)
+
 
 | Операция | Показывает окно с полем ввода имени |
 |---|---|
@@ -102,7 +104,8 @@ Bug - хранит данные о жуке, где будет известно 
 ---
 ## Прецедент "Бросок кубика"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/8d603776-0b71-4de9-a8ba-f3c1b35dab4e)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/3a208b82-dd6b-4918-9e99-5b73df5b5bae)
+
 
 | Операция | Показывает окно с полем ввода имени |
 |---|---|
@@ -131,7 +134,8 @@ Bug - хранит данные о жуке, где будет известно 
 ---
 ## Прецедент "Сборка жука"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/41111101-653f-40a6-a1b1-e28c882e0c75)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/f3bb3f37-fac6-4578-afeb-d094edb96c14)
+
 
 | Операция | Показывает окно с полем ввода имени |
 |---|---|
@@ -166,7 +170,8 @@ Bug - хранит данные о жуке, где будет известно 
 ---
 ## Прецедент "Завершение игры"
 
-![image](https://github.com/BREUCHT27/rtippo/assets/119112204/9392ed54-03f6-4ccb-87f0-f2a6d60ef097)
+![image](https://github.com/BREUCHT27/rtippo/assets/119112204/63a5ebd0-24b8-4c73-a1a4-e5495dee61f1)
+
 
 | Операция | Показывает окно с полем ввода имени |
 |---|---|
